@@ -1,0 +1,41 @@
+Stick
+You see that a walking stick is propped up against a nearby tree
+you now possess a walking stick
+A walking stick is nearby
+10
+2
+Book
+A copy of last year's summer reading book, "This I Believe," is sitting on the bench
+Shocked that someone would leave a book behind, you retrieve the book
+A copy of "This I Believe" is discarded carelessly at your feet
+15
+2
+Frog
+Frogs scatter when you approach the pond. One remains, looking at you blankly.
+The frog kicks frantically as you pick him up
+A small frog is nearby, looking confused
+7
+-5
+Leash
+You notice what appears to be a broken dog leash is left near the trail
+you now possess a broken dog leash
+A broken dog leash, is nearby
+5
+2
+Bag
+You see a crumpled fast-food bag, probably tossed from a car window
+You virtuously pick up the bag, mentally cursing the litterer
+A crumpled fast-food bag is nearby
+12
+5
+Bobber
+You see a fishing bobber near the side of the lake. 
+You now possess small red and white fishing bobber
+A small red and white fishing bobber is nearby
+8
+2
+RANDOM
+Park Ranger
+The Park Ranger has challenged you to duel because you stole the frog. You lose the duel and die. Game Over!
+Frog
+0.2

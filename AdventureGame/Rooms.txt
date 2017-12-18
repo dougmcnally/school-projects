@@ -1,0 +1,159 @@
+//Room 1
+You are in a small parking lot for a trailhead. 
+Across the road to the south, you can take the Pine loop, 
+to the north head take the North loop.
+END
+0
+13 The north loop winds through a meadow and a pine grove.
+2 The pine loop leads you down a trail covered in tree roots.
+-1 There is no trail leading east. You don't want to get lost.
+2 The sun shines through the trees as you head through the Pine loop.
+//Room 2
+You are at a small clearing in the trail.
+The sun breaks through the trees and warms your body.
+To the south lies the majority of the pine loop and a small hill.
+END
+1 
+1 You barely make it over the criss-crossing tree roots covering the path.
+3 The sticks scattered across the trail snap under your feet.
+1 The tree roots across the path make it hard to walk, but you push on.
+-1 The trail does not continue west, you may get lost.
+//Room 3
+You are standing on a small hill covered in tall grass.
+The wind rolls through the grass, making a faint sigh.
+To the east you can hear the sound of water.
+To the north there is a trail leading into a line of trees.
+Southward, the pine loop continues out of your view.
+END
+1
+2 The foliage gives you a nice shelter from the sun as you head north.
+4 You bravely continue down through the pine loop, wondering what's ahead.
+15 You follow the sound of water until you reach a small cliff.
+-1 There is no trail to the west. It would be a bad idea to go that way.
+//Room 4
+You're at the bottom of a small river(Harker's Run) that is covered in vegetation.
+You can follow the creek to the north in hopes that another trail connects to it.
+The pine loop continues to the west but you cannot see past a bend in the woods.
+To the east is the Bachelor Preserve East Loop but you cannot see where it leads.
+END
+2
+6 You walk alongside the river and almost trip over some rocks.
+-1 It would be unwise to follow the creak south, the map does not continue south.
+5 Going along the east loop you walk into a spider web and scream.
+3 You head west, not knowing where the trail will take you.
+//Room 5
+You stop to rest at the intersection of three trails.
+To the north is an open plain with growth covering the trail,
+but you see a large pond in the distance.
+One of the trails continues south into the woods, the trees block out the light.
+To the east is a small loop containing a beautiful sculpture and garden but
+it leads directly back to where you are now.
+END
+3
+8 You carefully walk over the vegetation, making sure not to touch any poison ivy.
+4 You head down the trail, suddenly realizing you are somewhat scared of the dark...
+5 That was very pretty but it looks like you're back where you started...
+-1 You can try to go east but without a trail, it is likely you will get lost.
+//Room 6
+You're at the river (Harker's Run). There's a suspension bridge over it! 
+The bridge looks a bit rickety... but is the only way to head east unless 
+you want to walk back a long way. South takes you further into the forest, 
+north back to the road, and west back into the pine loop.
+END
+1
+10 You head north back to the road, hoping for an easier walk.
+4 You walk into the forest, following the river along the way.
+7 The bridge really sways and there are some missing boards.
+15 You climb up a small cliff the river eroded away to the pine loop.
+//Room 7
+You stand on the western side of Bachelor Pond.
+The pond is very peaceful but you know you have work to do.
+You hear a river to your west, it's probably Harker's run.
+To the south the trail follows along the side of the pond.
+The trail leading north winds along towards the road.
+The trail also leads east along the side of the pond but on the north side.
+END
+1
+10 Heading north you almost trip over steps built in to the trail.
+8 While walking south along the pond you almost eat a dragonfly by accident. 
+9 You walk east along the northside of the pond toward the Reinhart Preserve Loop.
+6 As you walk the sound of the river becomes louder all around you.
+//Room 8
+You are standing at the south side of the pond, it is covered in cat tails.
+The bank of the pond is covered in algae and small creatures.
+The trail leads north around the pond to the opposite side.
+To the south is an open plain covered in tall grass and other plants.
+A trail also continues west along the pond.
+END
+1
+9 You walk along the side of the pond and your shoes get covered in mud.
+5 Walking through the plain, hoping to stay on the trail, you watch out for ticks.
+-1 You don't want to go that way - you need to get home before dark!
+7 Walking around the west side of the pond, you almost walk into a fellow nature enthusiast.
+//Room 9 
+You are at the east end of the pond. There is a partly-submerged log in the pond
+with several turtles on it. There are trails heading south, east, and west. 
+END
+1
+-1 There are no trails heading north, you don't want to head that way.
+8 You walk to the south side of the pond, hoping to find treasure.
+14 The trail to the east leads uphill and your legs become tired.
+7 You skip rocks in the pond as you walk to the western side.
+//Room 10
+The trail has been twisting back and forth. You're starting to wonder if you
+missed a turn somewhere... The road should be north and the suspension bridge 
+should be south.
+END
+1
+11 The trail curves north and you think you hear cars.
+7 The trail leads south to the western side of the pond.
+-1 You really don't want to hike into that gully!
+-1 That looks like a nasty hill and there's no trail...
+//Room 11
+You've reached an intersection of three trails. You can hear traffic noise to 
+the North.There are trails to the East and to the South.
+END
+1
+12 You walk north towards the road and find a busy street (Bonham Road).
+10 You head south down the trail, not sure where you're going.
+14 Walking east youcan still somewhat hear the road.
+-1 You don't want to walk west, unless you plan on getting lost!
+//Room 12
+You're on the South side of Bonham Road. If you head along the road to the West 
+you know you can pick up the trail on the other side. You just have to watch out 
+for careless drivers. South takes you back into the main part of the preserve.
+END
+1
+-1 Kramer Preserve Loop is north, where many hikers get lost!
+11 You head back to the main part of the preserve, looking both ways as you cross the road.
+-1 Even though the road heads east, it is very easy to get lost that way.
+13 You wlk along the road to the west, hoping to continue on the trail.
+//Room 13
+You're on the North side of Bonham Road. You can cross South to go into the main 
+park, you can loop around to the lot further West, or you can go East along the road 
+for a bit. If you head west, be sure  to stay on the trail and watch for the No 
+Trespassing signs
+END
+1
+-1 There's a No Trespassing sign here, I would turn around.
+6 You head into the main park, walking along a riverside.
+12 You walk along the road while Miami drivers wait for you to cross.
+1 You head back west towards the parking lot.
+//Room 14
+You're in a meadow. It's very pretty! There are trails to the South and West. 
+There's also one to the East but you're not sure where it goes.
+END
+3
+-1 You head north even though there is no trail, I hope you don't get lost...
+9 You walk south along the trail towards Bachelor pond.
+-1 It's getting late; you really don't want to get lost...
+11 You walk west along the trail and hear traffic noise as you go.
+//Room 15
+You're at the top of a hill. The trail to the East goes down, and there are beams 
+built into the hill to serve as steps. The trail to the West looks easier.
+END
+4
+-1 Do you really want to venture off the trail? If you insist...
+-1 I don't think it would be wise to go off the trails...
+6 You walk east because you love a challenge, but you trip and almost fall halfway down.
+3 The trail is very well kept and easy to trek as you walk west.

@@ -1,0 +1,3 @@
+Rooms.txt
+Items.txt
+Map.gif

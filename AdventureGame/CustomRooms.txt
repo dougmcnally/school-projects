@@ -1,0 +1,172 @@
+//Room 1
+You're in a cold damp room... There's barely any light for you to see.
+You feel around for something familiar and there seem to be shelves lining
+the walls to the north, west and east. You're probably in the storage room.
+There is a faint glimmer of light coming from the south. This seems like a safe place...
+END
+0
+-1 There is a shelf blocking your way.
+2 You slowly open the door as your eyes adjust to the light.
+-1 If only you could walk through walls...
+-1 There is no exit that way.
+//Room 2
+Light bursts through the windows on the west and southern walls. The only doors
+you can see are to the east and north. There is a large table down the center of
+the room covered with plates and silverware but they are all lined with dust, as
+if no one has sat here in some time. 
+END
+1
+1 You head north and open the door, only to see darkness. 
+-1 I don't suggest trying to climb out the window.
+3 The door to the east creaks loudly as you push it open.
+-1 There is not way to leave this room going west.
+//Room 3
+It appears to be the main foyer. There is a massive door to the south, probably 
+the main entrance. The wall to the east is covered with old paintings of men, all
+lined with, "Lord Barov" on the bottom. To the north there is a door loosely
+hanging ajar and to the west there is a tall narrow door. There are staircases 
+that suggest the building has multiple floors, but they are all blocked by furniture.
+END
+2
+4 You peek around the open door and carefully walk inside.
+16 You grab the giant iron rung on the massive door and pull with all of your weight.
+-1 Though the paintings seem odd, there is no way to move east from this room.
+2 The tall, narrow door screeches as you push it open.
+//Room 4
+Light can only be seen through a hole in the roof.  Vines have grown over it and
+drape down into the room. Under the vines you see what appears to be either cookware
+or scientific tools. Hopefully the former... There is an open door to the south,
+a bookcase to the east with a small draft of air coming from behind it and double doors to the north.
+END
+2
+5 The double doors are hard to budge at first, but with some work you open one.
+3 You walk through the open doorway, careful to take in your surroundings.
+12 You pull the bookcase away from the wall and find a secret passage.
+-1 The walls to the west are covered with knives, no exit here.
+//Room 5
+Rats scurry on the ground as you enter the room. A fireplace is on the wall to the west
+surrounded by what look like once comfortable lounging chairs. There is a door to the
+north, double doors to the south and the wall seems to have caved in to the east.
+END
+3
+6 You push the door and take a step back as it swings open.
+4 The double doors require all of your strength to move.
+11 You climb over the rubble of the destroyed wall.
+-1 There is nothing interesting in the fireplace.
+//Room 6
+The room appears to be a greenhouse attached to the back of the house. You don't recognize
+any of the plants growing here but they all seem to have the same deep red color
+to their buds.  There is a single door to the south and a screen door to the outside
+to the west. 
+END
+2
+-1 There is nothing to the north but a long rack of the same red plants.
+5 You easily go through the single door.
+-1 The floor to the west is covered in blood stains.
+7 You push the screen door open and it is quick to recoil.
+//Room 7
+You're on the eastern side of a lake.  The water is a dark blueish-black,
+revealing its true depth. There is a dirt trail to the north and west that loops
+around to the opposite side of the lake. There is a screen door that leads to a greenhouse
+looking room to the south and a long trail lined with waist high grass that leads
+to a forest to the east.
+END
+2
+8 You go north down the dirt trail along the side of the lake.
+6 The screen door is light but springs back as you open it.
+9 You walk down the long narrow trail to the east.
+8 You walk west along the lake while following the dirt trail.
+//Room 8
+You're standing at the north end of the lake.  There appears to be a cliff to the
+north and west, but a trail that goes around the lake to the south and east. At the 
+bottom of the cliff appear to be animal bones... at least you hope.
+END
+3
+-1 That cliff is pretty steep, I don't think you can climb down it.
+7 You walk south around the lake, hoping to find something of value.
+7 You take the trail leading east around the lake, listening to the wind.
+-1 It would be a bad idea to try and go down the cliff, you may get hurt.
+//Room 9
+You're standing on the edge of a forest. The trees block out any light that might
+hit the ground. You have no idea how far back the forest goes but it looks deep. 
+Who knows what could be back there... There's a trail leading to a lake to the west and
+a trail leading to a broken wall in the building to the south. 
+END
+2
+-1 As you walk north towards the forest you hear a coyote howl... better turn around.
+11 You climb over the rubble of the destroyed wall. What could have done this?
+-1 Walking east you see two yellow eyes appear from the dark forest, I wouldn't continue.
+7 You feel like something from the forest is following you west... you turn around but nothing is there.
+//Room 10
+There is a graveyard to the north that is locked and gated. A lot of the graves appear
+unmarked except for a large statue. Written at its base is "Lord Barov 1890 -    "
+There is a trail to the east leading to a road. To the west, a destroyed wall you
+can climb over into the building and to the south a rickety cellar door...
+END
+2
+-1 You can try all you want but the graveyard is locked up tight, I would hurry somewhere else.
+13 The cellar doors are heavy though the wood looks rotten. You step into the darkness.
+15 You head towards the road and notice there have been no cars driving down it.
+11 You struggle to get over the remains of the stone wall but eventually make it.
+//Room 11
+This room is covered with destruction, parts of the north, east and west walls are demolished.
+There is a large crater in the center of the room... There must have been an explosion there.
+To the north you see a dark forest through the destroyed wall, To the east you
+see a large graveyard over the rubble and to the west there is a hole in the wall
+leading to a room covered with vines. The only door is to your south and it is very small.
+END
+3
+9 You're careful not to damage the wall any further as you go towards the forest.
+12 The small door is only big enough to crawl through, it appears to be rarely used.
+10 You almost trip over a piece of the stone wall heading east.
+5 You squeeze through the hole in the wall while the vines muffle your footsteps.
+//Room 12
+This room was obviously not meant to be public knowlege. The walls are covered with pieces
+of paper all written extensively on. There are multiple beakers for experiments
+and broken cages on tables in the center of the room. There is a small door
+to the south, a door big enough to crawl through to the north an open arch
+to a room to the east, and a pathway seemingly blocked by a bookcase to the west.
+END
+2
+11 You crawl through the small door, hoping there are no rats nearby.
+14 There appears to be something behind the door blocking it so you kick it open.
+13 You walk through the open arch and almost fall down a couple of steps in the darkness.
+4 You push the bookcase forward and step out from behind it.
+//Room 13
+You are surrounded by darkness. Light creeps out between what appears to be two cellar
+doors to the north.  There is a small archway to the west.  
+END
+3
+10 You lift with your legs to push open the heavy cellar doors. 
+-1 You head south in the darkness until you walk face first into a wall.
+-1 You walk east in the darkness and stub your toe on the wall.
+12 You walk west through the small archway, almost tripping over small steps on the way.
+//Room 14
+You're in what appears to be a torture room... There are bones and blood stains everywhere.
+The room is barely lit by torches hanging on the walls.  They're still lit...
+The only door is to the north. 
+END
+4
+12 You push the door open and quickly get out of there.
+-1 I wouldn't waste time looking in the room.
+-1 I would get out of here, quick.
+-1 There is no exit this way.
+//Room 15
+There is a road covered in mist that goes to the east and south that seems to be
+rarely ever used. A dirt trail leads west to the large main entrance of what appears to be
+an old mansion.  A trail also leads north to a large cemetary.
+END
+3
+10 You head quickly towards the cemetary.
+-1 I wouldn't head south, you have no idea where that road goes!
+-1 That mist is pretty thick, it would not be wise to head east.
+16 You walk along the dirt path towards the Mansion.
+//Room 16
+There are large wooden doors to the north leading into an old mansion. You are standing 
+in the middle of waist high grass. There is a dirt path leading south and east to a road.
+END
+2
+3 The doors are heavy and a cold, damp wind blows from the inside as you open them. 
+15 You head down the dirt path, hoping to find help at the road.
+15 There are no sounds of traffic from the road but you are hopeful as you head east.
+-1 There is no trail heading west, you will probably get lost if you go that way.

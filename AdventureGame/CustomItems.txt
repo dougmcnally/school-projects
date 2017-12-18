@@ -1,0 +1,47 @@
+Saw
+There is a saw lying next to your foot, there are blood stains along its teeth.
+You carefully pick up the bloody saw.
+A blood stained saw is lying nearby.
+14
+4
+Note
+A note scribbled with writing is stuck to the wall with the words "Life essence" on top.
+You grab the note, it says, "Must gain vitae.... extracted through torturous pain... immortality", weird.
+A scribbled note sits on the floor.
+12
+3
+Seal
+What looks like the Barov Family seal is lying on the ground, it must have been dropped by a family member.
+You pick up the seal and hear a ghastly scream come from the distance.
+The Barov family seal glows red on the ground.
+11
+-10
+Picture
+A faded old picture sits in front of you, almost calling for you to pick it up...
+You grab the picture and notice it is of the Barov family, with the faces of each member burnt out except the youngest son...
+A faded old picture lays down on the floor.
+10
+4
+Shovel
+An old rusty shovel is stuck in to the ground by a grave.
+You pull the shovel from the ground and notice there is blood on the handle.
+An old rusty shovel is discarded at your feet.
+10
+3
+Candlestick
+You see a silver candlestick out in the open, it looks quite valuable.
+You grab the candlestick and hope that the owners don't find out you took it.
+A nice, silver candlestick sits invitingly before you.
+2
+6
+Sheers
+A large pair of gardening sheers are sitting in the corner.
+You grab the sheers and notice the metal blades are dull and twisted... how tough are these plants?
+Twisted gardening sheers can be seen on the ground, probably useless.
+6
+2
+RANDOM
+Lord Barov
+You hear footsteps rush up behind you. You turn to see a familiar face... He doesn't seem very happy that you stole his seal.
+Seal
+0.4

@@ -1,0 +1,3 @@
+CustomRooms.txt
+CustomItems.txt
+CustomMap.gif
